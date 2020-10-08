@@ -9,7 +9,7 @@ package com.subhash.javabasi.cs.oops.inheritance;
  */
 public class Car {
 
-	public String brand = "HYUNDAI";
+	public String brand = "HYUNDAI"; // public members can be accessed by the inherited classes
 	
 	public void brand() {
 

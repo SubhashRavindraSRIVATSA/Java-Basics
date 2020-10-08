@@ -9,7 +9,7 @@ package com.subhash.javabasi.cs.oops.inheritance;
  */
 public class Hyundai extends Car{
 
-	public String model = "i10";
+	private String model = "i10"; // private member accessed only by the members of the particular class
 	
 	public static void main(String[] args) {
 		
