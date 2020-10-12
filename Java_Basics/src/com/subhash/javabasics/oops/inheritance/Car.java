@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.subhash.javabasi.cs.oops.inheritance;
+package com.subhash.javabasics.oops.inheritance;
 
 /**
  * @author Subhash

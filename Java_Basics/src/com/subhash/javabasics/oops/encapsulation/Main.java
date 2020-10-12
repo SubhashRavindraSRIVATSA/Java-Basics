@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.subhash.javabasi.cs.oops.encapsulation;
+package com.subhash.javabasics.oops.encapsulation;
 
 /**
  * @author Subhash

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.subhash.javabasi.cs.oops.polymorphism;
+package com.subhash.javabasics.oops.polymorphism;
 
 /**
  * @author Subhash
